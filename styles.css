@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100..900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Montserrat", serif;
+}
+
+header {
+    margin-top: 47px;
+    margin-left: 42px;
+}
+
+.Link-menu {
+    font-weight: 400;    
+    font-size: 14px;
+    line-height: 21px;
+    text-align: center;
+    letter-spacing: 0.875px;
+    color: #EB0091;
+    margin-left: 32px;
+    cursor: pointer;
+}
+
+.button-sing {
+    background: #8C3FEB;
+    border: 1px solid #9148EB;
+    border-radius: 6px;
+    width: 124px;
+    height: 51px;
+    cursor: pointer;
+    font-family: Poppins;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 1px;
+    color: #ffffff
+}
+.logo-image {
+    width: 450px;
+    border-radius: 50px;
+    margin: 70px 0 0 123px;
+    display: inline-block
+}
+
+div {
+    display: inline-block;
+    width: 493px;
+    margin-left: 85px;
+    
+}
+
+h1 {
+    font-weight: 700;
+    font-size: 62px;
+    line-height: 82px;
+    letter-spacing: 0.596154px;
+    color: #9148EB;
+}
+
+p {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 33px;
+    letter-spacing: 0.5px;
+    color: #9148EB; 
+    margin-top: 47px; 
+    margin-bottom: 55px;
+}
+
+.exploração {
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 27px;
+    letter-spacing: 1px;
+    color:#e60ea5;
+    cursor: pointer;
+    background: transparent;
+    border: none;
+}
